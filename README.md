@@ -7,7 +7,8 @@
 - 🎓 &nbsp; Studying Statistics at Noakhali Science and Technology University.
 - 💼 &nbsp; Looking for a web development internship.
 - 🌱 &nbsp; Learning more about React, NodeJS, ExpressJS and mongodb.
-- ⚡ &nbsp; Fun fact: I love to play guitar and watch TV series.
+- ⚡ &nbsp; Fun fact: I love to play guitar 🎸🎶 and watch TV series 📺
+.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
