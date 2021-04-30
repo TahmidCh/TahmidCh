@@ -38,6 +38,7 @@
 
 <a href="https://github.com/TahmidCh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TahmidCh&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidCh&theme=buefy&layout=compact" />
 </a>
 
 <br/>
