@@ -5,8 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and tools.
 - 🎓 &nbsp; Studying Statistics at Noakhali Science and Technology University.
-- 💼 &nbsp; Looking for a web development internship.
-- 🌱 &nbsp; Learning more about React, NodeJS, ExpressJS and mongodb.
+- 💼 &nbsp; Looking for a Junior Data Scientist internship.
 - ⚡ &nbsp; Fun fact: I love to play guitar 🎸🎶 and watch TV series 📺
 .
 
